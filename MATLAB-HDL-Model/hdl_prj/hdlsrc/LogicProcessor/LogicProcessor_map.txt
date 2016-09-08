@@ -1,0 +1,6 @@
+ --> LogicProcessor_pkg
+LogicProcessor/LogicProcessor/mealy_sf/Simple_Mealy_Chart --> Simple_Mealy_Chart
+LogicProcessor/LogicProcessor/mealy_sf --> mealy_sf
+LogicProcessor/LogicProcessor/moore_sf/Simple_Moore_Chart --> Simple_Moore_Chart
+LogicProcessor/LogicProcessor/moore_sf --> moore_sf
+LogicProcessor/LogicProcessor --> LogicProcessor
