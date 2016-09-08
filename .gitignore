@@ -14,3 +14,4 @@ LICENSE
 *.gif
 *.cur
 *.tmp
+*html/*
