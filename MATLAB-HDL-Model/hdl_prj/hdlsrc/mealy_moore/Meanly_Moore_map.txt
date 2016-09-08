@@ -1,9 +1,0 @@
- --> Meanly_Moore_pkg
-mealy_moore/Meanly-Moore/mealy_sf/Simple_Mealy_Chart --> Simple_Mealy_Chart
-mealy_moore/Meanly-Moore/mealy_sf --> mealy_sf
-mealy_moore/Meanly-Moore/moore_sf/FrequencyGeneratorSystem --> FrequencyGeneratorSystem
-mealy_moore/Meanly-Moore/moore_sf/Simple_Moore_Chart --> Simple_Moore_Chart
-mealy_moore/Meanly-Moore/moore_sf --> moore_sf
-mealy_moore/Meanly-Moore/FightToTheEnd --> FightToTheEnd
-mealy_moore/Meanly-Moore/KingOfTHeHill --> KingOfTHeHill
-mealy_moore/Meanly-Moore --> Meanly_Moore
